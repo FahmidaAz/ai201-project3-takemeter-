@@ -1,0 +1,211 @@
+text,label
+Apple acquires DarwinAI to strengthen its AI capabilities ahead of Apple Intelligence launch.,news
+The people most harmed by biased AI systems are least likely to know they were affected or have recourse.,concern
+Do you think the next major AI breakthrough will come from scaling or from architectural innovation?,discussion
+What's the single most useful AI tool you've integrated into your daily workflow?,discussion
+"If AI models encode biases in their training data, and training data reflects historical inequality, we're automating injustice.",concern
+AI tutoring replacing human teachers sounds efficient until you realize what children lose without human mentorship.,concern
+Google releases Gemini 2.0 Flash with enhanced agentic capabilities and real-time tool use.,news
+The tech press covering AI is mostly funded by the same companies building it. The conflict of interest is enormous.,concern
+"The mental load of fact-checking AI outputs is enormous. We've shifted work, not eliminated it.",concern
+Do you find AI-generated text easy to spot? Share examples of tells that give it away.,discussion
+"Anthropic releases Claude 3 Opus, claiming it outperforms GPT-4 on most academic benchmarks.",news
+"How much of AI's current usefulness is just better search, really?",discussion
+Pika 1.0 launches publicly with improved video generation and lip-sync capabilities.,news
+"NVIDIA announces Blackwell architecture GPUs, claiming 30x performance improvement for AI inference.",news
+HuggingFace releases ZeroGPU — shared GPU infrastructure for free Spaces demos.,news
+Hot take: most AI startups are just OpenAI API wrappers with a landing page and a $20M valuation.,discussion
+"Microsoft integrates GPT-4 into Office 365 suite, rolling out Copilot to enterprise customers.",news
+"OpenAI publishes technical report for GPT-4, though key training details remain undisclosed.",news
+The speed at which AI is changing the world is outpacing our collective ability to understand and govern it.,concern
+Elon Musk sues OpenAI for allegedly abandoning its nonprofit mission in favor of profit.,news
+Is emergent behavior in LLMs real or a convenient way to describe things we don't understand yet?,discussion
+AI is going to eliminate 40% of white-collar jobs in the next decade and nobody in power is taking it seriously.,concern
+OpenAI is valued at $80B and nobody can explain what happens if an AGI lab goes bankrupt mid-development.,concern
+"OpenAI releases Sora, a text-to-video model capable of generating minute-long realistic clips.",news
+"Cohere releases Embed v3, claiming state-of-the-art multilingual text embedding performance.",news
+The open-source AI community is accelerating capabilities without any of the safety infrastructure of big labs.,concern
+Meta open-sources Llama 3 with 8B and 70B parameter versions available for download.,news
+Autonomous AI agents with internet access are being deployed with inadequate sandboxing and oversight.,concern
+Udio and Suno both release AI music generation tools capable of creating full songs from text prompts.,news
+What happens to journalism when AI can write a thousand articles in the time a reporter writes one?,concern
+AI startup ElevenLabs raises $80M and releases voice cloning in 29 languages.,news
+Nvidia releases NIM microservices for deploying optimized AI models on any cloud or on-prem.,news
+How do you think about the environmental cost of AI when you use these tools every day?,discussion
+"When AI systems fail at scale in healthcare, infrastructure, finance — who is legally responsible?",concern
+Google acquires character.ai's technology and key staff in a reported $2.7B deal.,news
+AI systems optimized for engagement are making people angrier and more polarized. We have data on this.,concern
+"AI is being used to generate synthetic reviews, synthetic engagement, and synthetic social proof at massive scale.",concern
+"Artists, writers, and musicians had their life's work scraped without permission to train models that compete with them.",concern
+Does anyone else feel like the hype around AI agents is way ahead of the actual capability?,discussion
+The stochastic parrot argument for LLMs — is it more right than the AI community likes to admit?,discussion
+Cohere releases Command R optimized for retrieval-augmented generation at enterprise scale.,news
+Recommendation algorithms already polarized society. Now we're giving AI more direct control over information flow.,concern
+Apple announces Apple Intelligence features coming to iPhone 16 with on-device models.,news
+Stanford HAI releases annual AI Index Report 2024 — AI investment hits record $91.9B globally.,news
+"Google announces Project Astra — a universal AI agent that can see, hear, and respond in real time.",news
+Do you think small fine-tuned models will ever match frontier models for specialized tasks?,discussion
+Meta releases Segment Anything Model 2 supporting real-time video object segmentation.,news
+Unpopular opinion: ChatGPT has actually gotten worse over the past year. Anyone else notice this?,discussion
+"Is AI safety research actually preventing risks, or is it mostly making the researchers feel better?",discussion
+What do you think will be the iPhone moment for AI — the application that makes it truly mainstream?,discussion
+What AI application are you most excited about that isn't getting enough attention?,discussion
+"If AI can write code, design products, and do research, what skills are actually safe to learn right now?",discussion
+What's the hardest problem you've tried to solve with an LLM that it just couldn't handle?,discussion
+"Does your company actually use AI productively, or is it mostly for the investor slide deck?",discussion
+Google releases Gemma 2B and 7B open weights models for on-device deployment.,news
+"When we automate customer service with AI, we're not improving the experience — we're degrading it while cutting jobs.",concern
+The normalization of talking to AI chatbots instead of therapists or counselors is a public health risk.,concern
+Hot take: the AI bubble will pop within 18 months. Most enterprise deployments are failing quietly.,discussion
+OpenAI announces GPT-4o with real-time voice capabilities and improved multimodal understanding.,news
+"If LLMs can generate any text, what happens to the concept of original thought or authorship?",discussion
+"Hugging Face raises $235M Series D, valuing the company at $4.5 billion.",news
+How do you explain what an LLM actually is to someone with no technical background?,discussion
+What's your framework for deciding when to trust an LLM output vs. when to verify it manually?,discussion
+Anthropic releases Claude 3.5 Haiku — fastest and most affordable model in the Claude 3.5 family.,news
+What's the most useful mental model for understanding what LLMs are good and bad at?,discussion
+The compute concentration in AI means a small number of companies have unprecedented control over information.,concern
+"Is fine-tuning actually worth the effort for most use cases, or is prompt engineering enough?",discussion
+Every AI company promises safety and publishes responsible AI principles while racing to ship faster than competitors.,concern
+Groq announces LPU inference chip delivering 300+ tokens per second for Llama 2 70B.,news
+Healthcare AI is being deployed in high-stakes clinical decisions with minimal human oversight. That's alarming.,concern
+These AI systems are trained on our data without consent and we just collectively shrugged and accepted it.,concern
+"Is the current wave of AI fundamentally different from previous hype cycles, or will history repeat?",discussion
+We're building AI systems whose internal workings we fundamentally don't understand. Does that not scare anyone?,concern
+What's the best way to stay current in AI without drowning in Twitter hype and arxiv papers?,discussion
+AI for drug discovery and protein folding seems genuinely transformative. Why isn't it talked about more?,discussion
+There's no serious plan for what happens to the tens of millions of people whose jobs AI automates.,concern
+Runway releases Gen-3 Alpha with significantly improved video generation quality and consistency.,news
+EU AI Act officially passed — high-risk AI systems must comply by 2026.,news
+The move fast culture in AI is fundamentally incompatible with the care that high-stakes technology requires.,concern
+My entire industry collapsed in 18 months. I trained for years for a skill that AI made worthless.,concern
+Is the focus on chatbots a distraction from more impactful AI applications?,discussion
+"DeepSeek releases R1, an open-source reasoning model matching o1 performance at fraction of cost.",news
+Children developing parasocial attachments to AI companions is a real and growing problem nobody is studying.,concern
+Do you think the alignment problem is solvable before we build systems powerful enough for it to matter?,discussion
+Google releases NotebookLM with audio overviews — AI that turns documents into podcast-style summaries.,news
+AI confidence in wrong answers is more dangerous than human uncertainty. At least humans know when they don't know.,concern
+"Would you rather have a faster, cheaper model or a slower, more accurate one for your use case?",discussion
+Google DeepMind releases Gemini Nano for on-device inference on Pixel 8 phones.,news
+AI-generated academic papers are flooding journals and peer review is quietly breaking down.,concern
+"If you could ask one question to a frontier AI model that would genuinely test its intelligence, what would it be?",discussion
+"Is the rapid commoditization of LLMs good for the field, or does it hurt quality research?",discussion
+What's your honest take on AI-generated art — is it art? Should it be in galleries?,discussion
+"AI-generated spam is already choking email, search results, and comment sections. It's going to get worse.",concern
+The water usage of training and running these AI models is an environmental disaster we're not discussing.,concern
+Sakana AI releases evolutionary model merging — combining models without gradient-based training.,news
+How should we think about AI model versioning when the same model name can silently change?,discussion
+A handful of unelected tech executives are making decisions affecting billions of people and there's no accountability.,concern
+Do you think AI models understand language or are they just very good autocomplete?,discussion
+AI-powered persuasion tools will make targeted manipulation cheaper by orders of magnitude than human operators.,concern
+OpenAI cuts API prices by 50% for GPT-4 Turbo with improved rate limits.,news
+Local models vs. cloud APIs for personal projects — what's your actual workflow in 2024?,discussion
+How do you think about data privacy when using AI tools at work? What's your actual practice?,discussion
+The AI coding assistant debate: does it make junior devs better or mask fundamental skill gaps?,discussion
+AI is being used to generate synthetic CSAM and the legal system is completely unprepared for this.,concern
+Which AI assistant do you actually use daily and why? Not hype — real usage.,discussion
+Scale AI releases SEAL leaderboard for evaluating LLMs on expert-level domain benchmarks.,news
+Student essays written by AI are indistinguishable from human writing. Written assessment as a model is broken.,concern
+Vibes-based eval vs. benchmark-based eval for LLMs — which do you actually trust more?,discussion
+"Character.AI reaches 20M daily active users, making it one of the most used AI apps globally.",news
+Every AI product collecting your data is a future liability if it's breached or the company is acquired.,concern
+What's the most overhyped AI application you've seen in the past year?,discussion
+"Mistral AI releases Mixtral 8x22B, a mixture-of-experts model with strong multilingual performance.",news
+"Do you think AI will lead to a 4-day work week, or will companies demand more output instead?",discussion
+AI safety nonprofit METR releases new task suite for evaluating autonomous AI agent capabilities.,news
+The race dynamics between US and China in AI are starting to look uncomfortably like the nuclear arms race.,concern
+What would it take for you to trust an AI system with a genuinely high-stakes decision?,discussion
+"Is the open source AI community actually winning against the big labs, or is the gap still widening?",discussion
+AI phone scammers can now clone a loved one's voice with a 3-second clip. My grandmother almost got defrauded.,concern
+Is there a meaningful distinction between reasoning and retrieval in what LLMs actually do?,discussion
+The carbon footprint of a single ChatGPT query is meaningfully larger than a Google search. Multiply that by millions.,concern
+AI-generated code is being shipped to production without security review. We're accumulating vulnerabilities faster than ever.,concern
+We are sleepwalking into a world where human creativity is devalued because machines can imitate it cheaply.,concern
+The idea that alignment is solved because we added RLHF is dangerously overconfident given what's at stake.,concern
+Why does everyone act like AGI is inevitable? The scaling hypothesis has never been proven.,discussion
+"What's a use case where you tried AI, it didn't help, and you went back to the old way?",discussion
+OpenAI releases CriticGPT to help trainers catch mistakes in ChatGPT outputs during RLHF.,news
+"OpenAI launches GPT-4 fine-tuning API, allowing developers to customize the model on their own data.",news
+"Is interpretability research keeping pace with model capabilities, or are we flying blind?",discussion
+Should AI researchers be held liable if their published work is misused? How would that even work?,discussion
+AI pricing could be raised dramatically once users are locked in and alternatives have gone out of business.,concern
+Berkeley researchers release Gorilla — LLM that can accurately call over 1600 APIs.,news
+"Amazon invests $4 billion in Anthropic, its largest external investment ever.",news
+"OpenAI releases o3-mini, a reasoning model optimized for STEM tasks with three effort settings.",news
+"Anthropic publishes Constitutional AI paper, explaining their approach to building safer language models.",news
+Best practices for building RAG systems in production? What are the failure modes nobody talks about?,discussion
+Thoughts on the AI reasoning models like o1 and R1. Are they fundamentally different or just more compute?,discussion
+"OpenAI announces SearchGPT prototype, a search engine powered by GPT-4 with real-time web access.",news
+"If you had to bet on one AI lab being most important in 10 years, which would you pick and why?",discussion
+How realistic is the 10x developer claim for AI coding tools? What's your actual experience?,discussion
+Using AI to screen job applications means a single bad model can systematically exclude entire demographics.,concern
+The speed of AI deployment in financial markets is creating systemic risks nobody fully understands yet.,concern
+"Replit launches Replit Agent — AI that writes, runs, and deploys full apps from a text description.",news
+AI-generated scientific papers with fabricated citations are appearing in real journals. Trust in science is being eroded.,concern
+Ghost-writing with AI for academic work is cheating. The universities need to act and they're not.,concern
+What's the most impressive thing you've gotten an LLM to do that genuinely surprised you?,discussion
+OpenAI CEO Sam Altman briefly fired then reinstated by the board — full story recap.,news
+"We've essentially automated propaganda. For the first time, misinformation scales as fast as truth.",concern
+Perplexity AI launches Perplexity Pro with access to GPT-4 and Claude for $20/month.,news
+Midjourney releases v6 with significantly improved photorealism and text generation in images.,news
+AI voice cloning scams targeting elderly people are surging and there's no real defense against them.,concern
+At what point does AI assistance in creative work become plagiarism? Where's your personal line?,discussion
+Are we moving too fast with AI deployment? Feels like safety research can't keep up with capabilities.,discussion
+Deepfakes are now good enough that video evidence is becoming legally meaningless. This is terrifying.,concern
+"Meta releases ImageBind, a model that learns a joint embedding across six different modalities.",news
+Why do so many AI demos fall apart in real use? Is this a research-to-product translation problem?,discussion
+Adobe Firefly 3 launches with improved photorealism and tighter integration into Photoshop workflows.,news
+What's your personal red line — the thing AI would have to do before you'd call it genuinely intelligent?,discussion
+What would make you switch from your current primary AI tool to something else?,discussion
+Cohere launches Command R+ optimized for enterprise RAG applications and tool use.,news
+Perplexity launches Perplexity for Enterprise with SOC 2 compliance and private deployment options.,news
+AI companions are training a generation of users to expect emotional labor without reciprocity.,concern
+The benchmark arms race is getting ridiculous. Do you trust any AI leaderboard at this point?,discussion
+"Is multimodal AI actually useful day-to-day, or is it mostly demo bait?",discussion
+Together AI launches inference platform offering open-source models via API.,news
+Genuinely good uses of AI in education vs. uses that just help students avoid learning. Where's the line?,discussion
+AI systems trained predominantly on English data are encoding Western cultural assumptions as universal defaults.,concern
+"AI benchmarks can be gamed, which means we have no reliable way to measure how capable these systems actually are.",concern
+How do you evaluate whether an AI response is actually good vs. just confidently wrong?,discussion
+Content moderation AI has a terrible track record on minority languages. These communities face disproportionate harm.,concern
+Waymo expands robotaxi service to San Francisco open to all riders without waitlist.,news
+"The displacement of human translators by AI is happening right now, silently, in an industry that employed millions.",concern
+Mixtral vs. Llama vs. Claude — which model do you actually recommend for coding tasks?,discussion
+The concentration of AI power in a dozen companies in one city is a fragility the world hasn't reckoned with.,concern
+China releases regulations requiring labeling of all AI-generated content published online.,news
+"Google releases Gemini 1.5 Pro with 1 million token context window, claiming record-breaking performance.",news
+Honest question: is prompt engineering a real skill worth learning or will it be obsolete in two years?,discussion
+AI-generated disinformation at scale is going to make 2016 election interference look amateur.,concern
+Which AI use case do you think will age the worst — look back in 5 years and cringe at?,discussion
+AI21 Labs releases Jamba — first production-grade Mamba-based hybrid language model.,news
+Is Retrieval-Augmented Generation a temporary fix or a long-term paradigm for grounding LLMs?,discussion
+The labor market for entry-level knowledge work is being destroyed before the safety net for affected workers exists.,concern
+Facial recognition AI has documented higher error rates for darker-skinned faces and is still being deployed by police.,concern
+I asked a medical AI a nuanced question about drug interactions and it hallucinated a dangerous answer confidently.,concern
+Lawyers are using AI to draft filings and not checking for hallucinated citations. This happens in real courtrooms.,concern
+"Mistral releases Le Chat, a free ChatGPT competitor with access to their latest models.",news
+AI hiring tools have documented racial bias and companies are still deploying them at scale. When does this end?,concern
+Gig workers doing RLHF labeling earn poverty wages without benefits while creating billion-dollar value.,concern
+The mental health impact on data labelers doing RLHF for these models is a genuine human rights issue.,concern
+Hot take: most AI agents are just chains of LLM calls with if-statements. Fight me.,discussion
+Ideogram 2.0 launches with best-in-class text rendering in AI image generation.,news
+"Together AI releases RedPajama-Data-v2, a massive 30T token open dataset for LLM training.",news
+"Chinese AI startup 01.AI releases Yi-34B, claiming top open-source performance on several benchmarks.",news
+Stability AI releases Stable Diffusion 3 with improved text rendering and composition.,news
+xAI launches Grok-1.5 with vision capabilities and improved reasoning on STEM tasks.,news
+"Has any AI tool actually saved you significant time, or does prompt engineering overhead cancel it out?",discussion
+Nobody is talking about how AI is being used to supercharge surveillance in authoritarian regimes right now.,concern
+Inflection AI shuts down Pi chatbot after Microsoft poaches CEO and key staff.,news
+What is the actual killer app for AI that justifies the hundreds of billions being invested?,discussion
+Generative AI making it trivially cheap to create non-consensual intimate images is a crisis we're not ready for.,concern
+Regulatory capture in AI is already happening. The biggest labs are writing the regulations that govern them.,concern
+"Allen Institute for AI releases OLMo, a fully open language model with training data and code.",news
+Data centers powering AI are competing with residential areas for water and power in regions with shortages.,concern
+Microsoft releases Phi-3 Mini — a 3.8B parameter model claimed to match Mixtral 8x7B performance.,news
+Harvey AI raises $80M to expand AI legal research tools to law firms globally.,news
+Falcon 180B released by TII UAE — largest openly available language model at the time.,news
+"Do you think AI will ever be truly conscious, or is it always going to be a very sophisticated pattern matcher?",discussion
+Using AI to make parole and sentencing decisions is laundering human bias through a veneer of objectivity.,concern
+"DeepMind publishes AlphaFold 3 paper in Nature, now predicting interactions with DNA and small molecules.",news
+"Databricks releases DBRX, an open mixture-of-experts model outperforming GPT-3.5 on benchmarks.",news
+Autonomous weapons powered by AI are being developed by multiple militaries with almost no international governance.,concern
